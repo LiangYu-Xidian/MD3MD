@@ -1,7 +1,7 @@
 import logging
 import os
 import sys
-#sys.path.append('/home/MGDMG/qm9/data/prepare')
+#sys.path.append('/home/MD3MD/qm9/data/prepare')
 from md17 import download_dataset_md17
 from qm9_pre import download_dataset_qm9
 
