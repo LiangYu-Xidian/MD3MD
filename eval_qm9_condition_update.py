@@ -10,7 +10,7 @@ from easydict import EasyDict
 from statistics import mean
 from os.path import join
 import sys
-sys.path.append('/home/MGDMG/qm9/data/prepare')
+sys.path.append('/home/MD3MD/qm9/data/prepare')
 from models.epsnet import *
 from utils.datasets import *
 from utils.transforms import *
