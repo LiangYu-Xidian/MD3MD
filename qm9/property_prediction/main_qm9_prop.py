@@ -5,9 +5,9 @@ import json
 import pickle
 
 sys.path.append(os.path.abspath(os.path.join('../../')))
-sys.path.append('/home/MGDMG/qm9/property_prediction')
-sys.path.append('/home/MGDMG/qm9/data/prepare')
-sys.path.append('/home/MGDMG/qm9/data')
+sys.path.append('/home/MD3MD/qm9/property_prediction')
+sys.path.append('/home/MD3MD/qm9/data/prepare')
+sys.path.append('/home/MD3MD/qm9/data')
 
 import torch
 from torch import nn, optim
