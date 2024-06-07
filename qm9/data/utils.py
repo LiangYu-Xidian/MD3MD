@@ -3,7 +3,7 @@ import logging
 import numpy as np
 import torch
 import sys
-sys.path.append('/home/MGDMG')
+sys.path.append('/home/MD3MD')
 from qm9.data.dataset_class import ProcessedDataset
 from qm9.data.prepare.download import prepare_dataset
 
