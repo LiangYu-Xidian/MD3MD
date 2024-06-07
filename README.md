@@ -1,11 +1,11 @@
-# MGDMG
+# MD3MD
 ## Dependencies
 ```
 # Clone the environment
-conda env create -f MGDMG.yml
+conda env create -f MD3MD.yml
 
 # Activate the environment
-conda activate MGDMG
+conda activate MD3MD
 ```
 ## Data preparation
 ### QM9 dataset preparation
