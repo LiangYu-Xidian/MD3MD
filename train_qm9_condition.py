@@ -16,7 +16,7 @@ from utils.datasets import QM93D
 from utils.misc import *
 from utils.transforms import *
 import sys
-sys.path.append('/home/MGDMG/qm9/data/prepare')
+sys.path.append('/home/MD3MD/qm9/data/prepare')
 
 def train(it):
     model.train()
