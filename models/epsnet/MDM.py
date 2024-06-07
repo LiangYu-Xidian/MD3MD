@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/MGDMG')
+sys.path.append('/home/MD3MD')
 import torch
 from torch import nn
 from torch_scatter import scatter_mean
